@@ -1,0 +1,3 @@
+[submodule "ainstein-mobile"]
+	path = ainstein-mobile
+	url = https://github.com/ValentinoTriadi/ainstein-mobile.git
