@@ -4,3 +4,6 @@
 [submodule "ainstein-ai"]
 	path = ainstein-ai
 	url = https://github.com/ValentinoTriadi/ainstein-ai.git
+[submodule "ainstein-backend"]
+	path = ainstein-backend
+	url = https://github.com/ValentinoTriadi/ainstein-backend.git
